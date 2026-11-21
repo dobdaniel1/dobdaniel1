@@ -8,7 +8,7 @@ I lead QA teams, run EMVCo Level 3 certifications across Visa, Mastercard, Disco
 
 **Languages:** Java, Python, TypeScript, JavaScript
 **Automation:** Karate, Playwright, Pytest, JUnit, Appium, JMeter
-**Payments:** ISO 8583, EMV (contact and contactless), PCI-DSS, CPoC/MPoC, switching, settlement and reconciliation
+**Payments:** ISO 8583, EMV (contact and contactless), PCI-DSS, MPoC, switching, settlement and reconciliation
 **Backend and platform:** FastAPI, Docker, PostgreSQL, gRPC, REST, GitHub Actions
 **AI:** LLM-assisted test design and log triage (MBA, Artificial Intelligence)
 
